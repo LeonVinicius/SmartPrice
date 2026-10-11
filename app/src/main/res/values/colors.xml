@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sp_azul">#1D4ED8</color>
+    <color name="sp_azul_noite">#14213D</color>
+    <color name="sp_nevoa">#E6ECFB</color>
+    <color name="sp_verde">#15803D</color>
+    <color name="sp_laranja">#F59E0B</color>
+    <color name="sp_neve">#F6F8FC</color>
+    <color name="sp_branco">#FFFFFF</color>
+    <color name="sp_erro">#B3261E</color>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartPrice</string>
+    <string name="logo_descricao">SmartPrice</string>
+    <string name="logo_smart">Smart</string>
+    <string name="logo_price">Price</string>
+    <string name="cancelar">Cancelar</string>
+
+    <!-- Acessibilidade -->
+    <string name="acessibilidade_rotulo">Aa</string>
+    <string name="acessibilidade_descricao">Opções de acessibilidade: tema e tamanho da fonte</string>
+    <string name="acc_titulo">Acessibilidade</string>
+    <string name="acc_alternar_tema">Alternar tema claro/escuro</string>
+    <string name="acc_fonte_normal">Fonte normal</string>
+    <string name="acc_fonte_grande">Fonte grande</string>
+    <string name="acc_fonte_extra">Fonte extra grande</string>
+
+    <!-- Login -->
+    <string name="login_subtitulo">Entre para comparar preços</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_criar_conta">Criar conta</string>
+    <string name="toast_login_incorreto">E-mail ou senha incorretos. Tente novamente.</string>
+    <string name="toast_bem_vindo">Bem-vindo(a), %1$s!</string>
+    <string name="toast_preencha_campos">Preencha os campos corretamente.</string>
+    <string name="erro_email_invalido">Digite um e-mail válido</string>
+    <string name="erro_senha_vazia">Digite sua senha</string>
+
+    <!-- Cadastro -->
+    <string name="cadastro_titulo">Criar conta</string>
+    <string name="btn_voltar_descricao">Voltar para o login</string>
+    <string name="hint_nome">Nome completo</string>
+    <string name="hint_senha_minima">Senha (mín. 6 caracteres)</string>
+    <string name="perfil_rotulo">Perfil</string>
+    <string name="perfil_consumidor">Consumidor</string>
+    <string name="perfil_comerciante">Comerciante</string>
+    <string name="bairro_rotulo">Bairro</string>
+    <string name="cb_termos">Li e aceito os termos de uso</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="erro_nome">Digite seu nome completo</string>
+    <string name="erro_senha_curta">A senha deve ter no mínimo 6 caracteres</string>
+    <string name="erro_email_em_uso">Este e-mail já está cadastrado</string>
+    <string name="toast_escolha_bairro">Escolha o seu bairro.</string>
+    <string name="toast_aceite_termos">Aceite os termos de uso para continuar.</string>
+    <string name="toast_conta_criada">Conta criada com sucesso!</string>
+
+    <string name="consulta_provisoria">Login realizado! Aqui ficará a tela de Consulta.</string>
+
+    <string-array name="bairros">
+        <item>Selecione o bairro</item>
+        <item>Centro</item>
+        <item>Vila Nova</item>
+        <item>Jardim Sul</item>
+        <item>Bela Vista</item>
+    </string-array>
+</resources>
